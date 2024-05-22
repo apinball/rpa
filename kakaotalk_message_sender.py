@@ -37,4 +37,6 @@ def kakaotalk_message(client_id,code):
 
 if __name__ == "__main__":
     kakaotalk_message()
+
+    
     
